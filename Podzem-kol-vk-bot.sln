@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkBotWorker", "src\VkBotWorker\VkBotWorker.csproj", "{2B4C6306-24E6-497D-9305-C5EA73B3896A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4C6306-24E6-497D-9305-C5EA73B3896A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4C6306-24E6-497D-9305-C5EA73B3896A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4C6306-24E6-497D-9305-C5EA73B3896A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4C6306-24E6-497D-9305-C5EA73B3896A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
